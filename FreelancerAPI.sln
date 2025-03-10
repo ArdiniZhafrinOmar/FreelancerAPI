@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerAPI", "FreelancerAPI\FreelancerAPI.csproj", "{A2AE32C0-C857-4C95-91F6-D14B92965BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerAPI.Tests", "FreelancerAPI.Tests\FreelancerAPI.Tests.csproj", "{87FBFA4C-3939-437E-BF75-9F4B77DB2202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AE32C0-C857-4C95-91F6-D14B92965BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AE32C0-C857-4C95-91F6-D14B92965BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AE32C0-C857-4C95-91F6-D14B92965BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AE32C0-C857-4C95-91F6-D14B92965BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FBFA4C-3939-437E-BF75-9F4B77DB2202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FBFA4C-3939-437E-BF75-9F4B77DB2202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FBFA4C-3939-437E-BF75-9F4B77DB2202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FBFA4C-3939-437E-BF75-9F4B77DB2202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A917CE-D304-4980-8ED9-46B18E25F531}
+	EndGlobalSection
+EndGlobal
